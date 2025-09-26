@@ -3,6 +3,7 @@ import os
 from certificate_ocr import process_certificate
 
 app = Flask(__name__)
+# redeploy test
 
 # Folder to store uploaded files
 UPLOAD_FOLDER = os.path.join('static', 'uploads')

@@ -1,3 +1,4 @@
+tesseract
 Flask==2.3.3
 gunicorn==21.2.0
 pytesseract==0.3.10
